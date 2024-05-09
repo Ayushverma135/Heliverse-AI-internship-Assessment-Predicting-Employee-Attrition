@@ -19,7 +19,7 @@ Here, I am going to use 5 simple steps to analyze Employee Attrition using Pytho
 ## Setup Instructions
 1.Clone the repository: 
 
-    git clone https://github.com/Ayushverma135/Heliverse-AI-internship-Assessment-Predicting-Employee-Attrition/
+    git clone https://github.com/Ayushverma135/Heliverse-AI-internship-Assessment-Predicting-Employee-Attrition.git
     
 2.Install the required dependencies.
 

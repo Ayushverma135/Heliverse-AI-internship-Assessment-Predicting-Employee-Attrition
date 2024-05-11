@@ -22,10 +22,23 @@ Here, I am going to use 5 simple steps to analyze Employee Attrition using Pytho
     git clone https://github.com/Ayushverma135/Heliverse-AI-internship-Assessment-Predicting-Employee-Attrition.git
     
 2.Install the required dependencies.
+- __Python 3.x:__ Python is the programming language used for data analysis and model development.
+- __pandas:__ This library is used for data manipulation and analysis, particularly for handling structured data.
+- __scikit-learn:__ Scikit-learn is a machine learning library in Python that provides simple and efficient tools for data mining and data analysis.
+- __XGBoost:__ XGBoost is an optimized gradient boosting library designed for efficiency, speed, and performance.
+- __TensorFlow and Keras:__ These libraries are used for building and training neural network models.
+- __matplotlib and seaborn:__ These libraries are used for data visualization to gain insights from the data.
+- You can install these dependencies using pip, the Python package manager, by running the following commands:
 
-3.Navigate to the notebooks directory and run the Jupyter notebooks.
-
-4.Once the model is trained and evaluated, deploy it using the provided scripts or integrate it into the production environment as needed.
+        pip install pandas scikit-learn xgboost tensorflow matplotlib seaborn
+  
+- Make sure to replace tensorflow with tensorflow-cpu if you want to install the CPU-only version of TensorFlow to reduce installation size
+ and avoid potential compatibility issues with GPU drivers.
+3.Navigate to the notebooks directory __Ibm_Employee_Attrition.py__ and run the Jupyter notebooks.
+```bash
+python Ibm_Employee_Attrition.py
+```
+- If you want to run the __Ibm_employee_attrition.ipynb__ just click on the __Run All__ button in vs code.
 
 ## Contribution Guidelines
 

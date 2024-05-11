@@ -1,3 +1,7 @@
+# @Author: Ayush Verma
+# Team: Perfect Cube
+# Contact: ayushuv135@gmail.com
+
 # Import necessary libraries
 import pandas as pd
 from sklearn.model_selection import train_test_split
